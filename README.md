@@ -16,8 +16,6 @@ An in-depth paragraph about your project and overview of use.
 * 
 
 ### Video link
-
-* How to run the program
 ```
 dsfsdfs
 ```
