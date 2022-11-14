@@ -7,20 +7,19 @@ An in-depth paragraph about your project and overview of use.
 
 ### Approach
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* 
+
 
 ### Summary of results table
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* 
+* 
 
 ### Video link
 
 * How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
+dsfsdfs
 ```
 
 ## Authors
@@ -33,7 +32,3 @@ Vincent Nieto
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
