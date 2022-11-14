@@ -16,7 +16,7 @@ An in-depth paragraph about your project and overview of use.
 * 
 
 ## Video link
-```
+```bash
 dsfsdfs
 ```
 
@@ -24,6 +24,7 @@ dsfsdfs
 
 ### Team BlancPain
 Jeremy Jungo 
+
  Vincent Nieto
 
 ## Acknowledgments
