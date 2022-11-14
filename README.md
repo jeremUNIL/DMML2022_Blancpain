@@ -1,8 +1,5 @@
-# Project Title
-
-Simple overview of use/purpose.
-
-## Description
+# Data Mining and Machine Learning - Project
+## Detecting Difficulty Level of French Texts
 
 An in-depth paragraph about your project and overview of use.
 
