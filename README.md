@@ -24,7 +24,7 @@ dsfsdfs
 
 #### Team BlancPain
 Jeremy Jungo 
-Vincent Nieto
+ Vincent Nieto
 
 ## Acknowledgments
 
