@@ -28,8 +28,6 @@ code blocks for commands
 
 ## Authors
 
-Contributors names and contact info
-
 #### Team BlancPain
 Jeremy Jungo 
 Vincent Nieto
