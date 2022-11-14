@@ -5,28 +5,28 @@ An in-depth paragraph about your project and overview of use.
 
 ### Getting Started
 
-#### Approach
+### Approach
 
 * 
 
 
-#### Summary of results table
+### Summary of results table
 
 * 
 * 
 
-#### Video link
+### Video link
 ```
 dsfsdfs
 ```
 
-#### Authors
+### Authors
 
-### Team BlancPain
+## Team BlancPain
 Jeremy Jungo 
  Vincent Nieto
 
-#### Acknowledgments
+### Acknowledgments
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
