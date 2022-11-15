@@ -22,10 +22,7 @@ dsfsdfs
 
 ## Authors
 
-### Team Blancpain
-Jeremy Jungo 
-
-Vincent Nieto
+### Team Blancpain: [Jérémy Jungo & Vincent Nieto
 
 ## Acknowledgments
 
