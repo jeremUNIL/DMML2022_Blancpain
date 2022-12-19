@@ -1,6 +1,5 @@
 # Data Mining and Machine Learning - Project
 ### Detecting Difficulty Level of French Texts
->
 This project aims to build a model that can predict the difficulty level of a French text for English speakers. The difficulty level is based on the Common European Framework of Reference for Languages (CEFR) scale, which ranges from A1 to C2. The goal is to use this model in a recommendation system to suggest texts that are appropriate for a given language level. For example, if someone is at an A1 French level, it would not be helpful to recommend a text at a B2 level, as it would likely be too difficult for them to understand. On the other hand, a text that is slightly above their current level and contains some unknown words can help them improve their language skills. 
 
 ## Getting Started
@@ -10,16 +9,14 @@ The model will be trained on a dataset of French texts with their corresponding 
 
 
 ## Summary of results table
-| Rank | THING-TO-RANK |
+| Rank | THING-TO-RANK | THING-TO-RANK
 |-----:|---------------|
 |     1|               |
 |     2|               |
 |     3|               |
 
 ## Video link
-```bash
-dsfsdfs
-```
+	[![Légende](url vers l'image)](url vers une page)]
 
 ## Authors
 Jérémy Jungo & Vincent Nieto [Team Blancpain]
