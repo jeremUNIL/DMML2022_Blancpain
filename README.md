@@ -17,10 +17,7 @@ The model will be trained on a dataset of French texts with their corresponding 
 
 | Logistic regression | kNN | Decision Tree | Random Forests | Any other technique |
 | ---  | --- | --- | --- | --- | --- |
-| `Precision` | 0.4645 |
-| `Recall` | **0.5** |
-| `F1-score` | 0.4645 |
-| `Accuracy` | 0.4645 |
+
 
 ## Video link
 [![Fibonacci RMI Java EE]([http://img.youtube.com/vi/nX_inqaAzOI/0.jpg](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg))](URL LIEN YOUTUBE)
