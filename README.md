@@ -12,7 +12,7 @@ The model will be trained on a dataset of French texts with their corresponding 
 
 
 ## Video link
-[Click on me !](https://images.app.goo.gl/RpYyvXZN1VqPk5R49)(https://github.com/matiassingers/awesome-readme)
+[![Click on me !](https://images.app.goo.gl/RpYyvXZN1VqPk5R49)(https://github.com/matiassingers/awesome-readme)]
 
 ## Authors
 Jérémy Jungo & Vincent Nieto [Team Blancpain]
