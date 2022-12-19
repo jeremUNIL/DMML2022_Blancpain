@@ -21,6 +21,8 @@ The model will be trained on a dataset of French texts with their corresponding 
 
 ## Video link
 [![Fibonacci RMI Java EE]([http://img.youtube.com/vi/nX_inqaAzOI/0.jpg](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg))](URL LIEN YOUTUBE)
+![image](https://user-images.githubusercontent.com/114933881/208470707-ab7cda6c-2e7c-4969-a5ac-ee7d688d28ad.png)
+
 
 ## Authors
 Jérémy Jungo & Vincent Nieto [Team Blancpain]
