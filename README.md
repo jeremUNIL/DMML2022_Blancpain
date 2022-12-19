@@ -18,6 +18,7 @@ The model will be trained on a dataset of French texts with their corresponding 
 
 ## Video link
 [Click on me !](https://github.com/matiassingers/awesome-readme)
+[![Fibonacci RMI Java EE](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://www.youtube.com/watch?v=nX_inqaAzOI&feature=youtu.be&hd=1 "RMI Fibonacci Java")
 
 ## Authors
 Jérémy Jungo & Vincent Nieto [Team Blancpain]
