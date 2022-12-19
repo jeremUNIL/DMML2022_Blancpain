@@ -9,7 +9,7 @@ The model will be trained on a dataset of French texts with their corresponding 
 
 
 ## Summary of results table
-| Logistic regression | Knn | Decision Tree | Random Forests | Any other technique |
+| Logistic regression | Knn |
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
