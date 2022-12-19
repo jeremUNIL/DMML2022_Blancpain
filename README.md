@@ -10,17 +10,11 @@ The model will be trained on a dataset of French texts with their corresponding 
 
 
 ## Summary of results table
-# Create data
-data = [['Precision', 0.4645, 0.4154, 0.3267, 0.4334, 2],
-        ['Recall', 0.4677, 0.3600, 0.3244, 0.4212, 2],
-        ['F1-score',0.4640, 0.3489, 0.3085, 0.4092, 2],
-        ['Accuracy',0.4667, 0.3594, 0.3208, 0.4188, 2]]
-
-# Define header names
-col_names = ['Logistic regression', 'kNN', 'Decision Tree', 'Random Forests', 'Any other technique']
-
-# Generate table as Markdown
-table = tabulate(data, headers=col_names, tablefmt='github', numalign="center", floatfmt=".4f")
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
 
 ## Video link
 ```bash
