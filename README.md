@@ -29,7 +29,6 @@ The model will be trained on a dataset of French texts with their corresponding 
 Jérémy Jungo & Vincent Nieto [Team Blancpain]
 
 
-![image](https://user-images.githubusercontent.com/114933881/208473442-7e7ed9ea-e72c-4d52-bec4-8960e305442d.png)
 
 
 
