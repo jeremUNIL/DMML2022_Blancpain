@@ -17,7 +17,7 @@ The model will be trained on a dataset of French texts with their corresponding 
 | `Accuracy` | 0.4645 |
 
 ## Video link
-[![Fibonacci RMI Java EE]([http://img.youtube.com/vi/nX_inqaAzOI/0.jpg](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg))](URL LIEN YOUTUBE")
+[![Fibonacci RMI Java EE]([http://img.youtube.com/vi/nX_inqaAzOI/0.jpg](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg))](URL LIEN YOUTUBE)
 
 ## Authors
 Jérémy Jungo & Vincent Nieto [Team Blancpain]
