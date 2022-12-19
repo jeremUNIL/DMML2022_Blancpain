@@ -9,12 +9,12 @@ The model will be trained on a dataset of French texts with their corresponding 
 
 
 ## Summary of results table
-|| Knn | Decision Tree | --- | --- | --- |
+|| Logistic Regression | Knn | Decision Tree | Random Forests | Any Other Techniques |
 | --- | --- | --- | --- | --- | --- |
-| git status | List all new or modified files | List all new or modified files | --- | --- | --- |
-| git diff | Show file differences that haven't been staged | List all new or modified files | --- | --- | --- |
-| git diff | Show file differences that haven't been staged | List all new or modified files | --- | --- | --- |
-| git diff | Show file differences that haven't been staged | List all new or modified files | --- | --- | --- |
+| Precision | 0.4645 | 0.4645 | --- | --- | --- |
+| Recall | 0.4645 | 0.4645 | --- | --- | --- |
+| F1-Score | 0.4645 | 0.4645 | --- | --- | --- |
+| Accuracy | 0.4645| 0.4645 | --- | --- | --- |
 
 
 
