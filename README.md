@@ -11,10 +11,10 @@ The model will be trained on a dataset of French texts with their corresponding 
 ## Summary of results table
 |  | Logistic regression | kNN | Decision Tree | Random Forests | Any other technique |
 | --- | --- | --- | --- | --- | --- |
-| Precision | List all *new or modified* files |
-| Recall | Show file differences that **haven't been** staged |
-| F1-score | Show file differences that **haven't been** staged |
-| `Accuracy` | Show file differences that **haven't been** staged |
+| `Precision` | 0.4645 |
+| `Recall` | **0.5** |
+| `F1-score` | 0.4645 |
+| `Accuracy` | 0.4645 |
 
 ## Video link
 [Click on me !](https://github.com/matiassingers/awesome-readme)
