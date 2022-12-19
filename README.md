@@ -9,11 +9,7 @@ The model will be trained on a dataset of French texts with their corresponding 
 
 
 ## Summary of results table
-| Rank | THING-TO-RANK | THING-TO-RANK
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+
 
 ## Video link
 [Click on me !](https://github.com/matiassingers/awesome-readme)
