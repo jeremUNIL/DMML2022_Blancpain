@@ -16,7 +16,7 @@ The model will be trained on a dataset of French texts with their corresponding 
 |     3|               |
 
 ## Video link
-	[![Légende](url vers l'image)](url vers une page)]
+[![Click on me !](url vers l'image)](url vers une page)]
 
 ## Authors
 Jérémy Jungo & Vincent Nieto [Team Blancpain]
