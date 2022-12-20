@@ -24,6 +24,7 @@ In order to categorize the difficulty of texts within the project, we utilized s
 * Decision Tree Classifier & Hyperparameter Optimisation 
 * Random Forests Classifier 
 
+Once the previous models have been trained, we will try to increase the prediction accuracy by using other techniques. The results obtained are summarised in the table below. A video presenting all the solutions is also available under the "Video link" section.
  
 
 ## Summary of results table
