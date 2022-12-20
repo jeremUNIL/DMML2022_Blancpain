@@ -8,12 +8,14 @@ This project aims to build a model that can predict the difficulty level of a Fr
 The model will be trained on a dataset of French texts with their corresponding difficulty levels, and it will use this data to predict the difficulty level of new texts. By accurately predicting the difficulty level of French texts, the recommendation system can help English speakers improve their French skills by providing texts that are appropriate for their current language level.
 
 [MONTRER TEXT ENTRAINEMENT A DISPOSITION + 1 PHRASE DE BLABLA]
+
 || Logistic Regression | Knn | Decision Tree | Random Forests | Any Other Techniques |
 | --- | --- | --- | --- | --- | --- |
 | Precision | 0.4645 | 0.4154 | 0.3267 | 0.4645 | 0.4334 |
 | Recall | 0.4677 | 0.3600 | 0.3244 | 0.4645 | 0.4212 |
 | F1-Score | 0.4640 | 0.3489 | 0.3085 | 0.4645 | 0.4092 |
 | Accuracy | 0.4667| 0.3594 | 0.3208 | 0.4645 | 0.4188 |
+
 [AJOUT PHRASE POUR FAIRE LE POND ENTRE LES DONNEES ET LES MODELES EN DESSOUS]
 
 
