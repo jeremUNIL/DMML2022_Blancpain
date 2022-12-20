@@ -7,6 +7,7 @@ This project aims to build a model that can predict the difficulty level of a Fr
 ## Approach
 The model will be trained on a dataset of French texts with their corresponding difficulty levels, and it will use this data to predict the difficulty level of new texts. By accurately predicting the difficulty level of French texts, the recommendation system can help English speakers improve their French skills by providing texts that are appropriate for their current language level.
 
+Below is a sample of the training data: 
 
 | ID | sentence | difficulty |
 | --- | --- | --- |
