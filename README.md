@@ -63,4 +63,4 @@ Jérémy Jungo
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [Hugging Face](https://huggingface.co/models?sort=downloads&search=flaubert)
