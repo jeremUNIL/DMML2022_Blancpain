@@ -5,7 +5,7 @@ This project aims to build a model that can predict the difficulty level of a Fr
 ## Getting Started
 
 ## Approach
-The model will be trained on a [https://github.com/jeremUNIL/DMML2022_Blancpain/blob/main/data/training_data.csv]()   of French texts with their corresponding difficulty levels, and it will use this data to predict the difficulty level of new texts. By accurately predicting the difficulty level of French texts, the recommendation system can help English speakers improve their French skills by providing texts that are appropriate for their current language level.
+The model will be trained on a [dataset](https://github.com/jeremUNIL/DMML2022_Blancpain/blob/main/data/training_data.csv) of French texts with their corresponding difficulty levels, and it will use this data to predict the difficulty level of new texts. By accurately predicting the difficulty level of French texts, the recommendation system can help English speakers improve their French skills by providing texts that are appropriate for their current language level.
 
 
 Below is a sample of the training data: 
