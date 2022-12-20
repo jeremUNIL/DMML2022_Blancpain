@@ -31,7 +31,7 @@ The model will be trained on a dataset of French texts with their corresponding 
 Jérémy Jungo  
 *Bsc in Industrial Engineering and Management, Major in Supply Chain Management  
 *MSc in Information Systems and Digital Innovation at HEC Lausanne
-[Vincent Nieto](https://www.linkedin.com/in/vincent-nieto-4bb207214/)  
+*[Vincent Nieto](https://www.linkedin.com/in/vincent-nieto-4bb207214/)  
 *Bsc in Industrial Engineering and Management, Major in Supply Chain Management
 *MSc in Information Systems and Digital Innovation at HEC Lausanne
 
