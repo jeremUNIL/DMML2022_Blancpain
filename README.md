@@ -20,14 +20,15 @@ The model will be trained on a dataset of French texts with their corresponding 
 
 
 ## Video link
-![image](https://user-images.githubusercontent.com/114933881/208473062-51c39456-63da-483e-995f-34990ab78942.png)
+
+![image](https://user-images.githubusercontent.com/114933881/208676268-7d762299-e633-43b2-8d2d-8bab831fa5f2.png)
 
 
 
 
 ## Authors
 Jérémy Jungo & Vincent Nieto [Team Blancpain]
-![image](https://user-images.githubusercontent.com/114933881/208676268-7d762299-e633-43b2-8d2d-8bab831fa5f2.png)
+
 
 
 
