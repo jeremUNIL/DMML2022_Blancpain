@@ -21,7 +21,7 @@ The model will be trained on a dataset of French texts with their corresponding 
 
 ## Video link
 
-![image](https://user-images.githubusercontent.com/114933881/208676731-4506b372-fbff-4bd4-8e82-1d0007174678.png)
+![[image](https://user-images.githubusercontent.com/114933881/208676731-4506b372-fbff-4bd4-8e82-1d0007174678.png)](https://www.youtube.com/watch?v=iDUuTmnH-0A&t=288s)
 
 
 
