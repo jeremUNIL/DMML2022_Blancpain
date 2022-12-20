@@ -22,7 +22,8 @@ The model will be trained on a dataset of French texts with their corresponding 
 ## Video link
 
 
-[![Image Alt Text](https://user-images.githubusercontent.com/114933881/208676731-4506b372-fbff-4bd4-8e82-1d0007174678.png)]((https://www.youtube.com/watch?v=iDUuTmnH-0A&t=288s))
+
+[![OpenAI Logo](https://user-images.githubusercontent.com/114933881/208678981-31945b49-81c4-4d0b-9041-d658687ab0ce.png)](https://www.youtube.com/watch?v=iDUuTmnH-0A&t=288s)
 
 
 
