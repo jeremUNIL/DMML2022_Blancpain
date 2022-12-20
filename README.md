@@ -10,12 +10,14 @@ The model will be trained on a dataset of French texts with their corresponding 
 [MONTRER TEXT ENTRAINEMENT A DISPOSITION + 1 PHRASE DE BLABLA]
 
 
-|| Logistic Regression |
+| sentence | difficulty |
 | --- | --- |
-| Precision | 0.4645 |
-| Recall | 0.4677 |
-| F1-Score | 0.4640 |
-| Accuracy | 0.4667|
+| Tu mangeas les petits fruits dès que tu les eus cueillis. | C2 |
+| Voilà une autre histoire que j'ai beaucoup aimée. | A2 |
+| Bonjour et bonne année. | A1 |
+| Ces tanières se fondent dans la nature pour être quasiment invisibles. | C1 |
+| Vous ferez de la randonnée ? | B1 |
+| Ce phénomène, c'est l'apparition d'une génération inédite. | B2 |
 
 
 [AJOUT PHRASE POUR FAIRE LE POND ENTRE LES DONNEES ET LES MODELES EN DESSOUS]
