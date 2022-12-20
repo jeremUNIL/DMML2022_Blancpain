@@ -45,5 +45,5 @@ MSc in Information Systems and Digital Innovation at HEC Lausanne
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [Models - Hugging Face]([https://github.com/matiassingers/awesome-readme](https://huggingface.co/models?sort=downloads&search=flaubert))
+* [Models - Hugging Face](https://github.com/matiassingers/awesome-readme](https://huggingface.co/models?sort=downloads&search=flaubert)
 
