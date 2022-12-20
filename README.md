@@ -19,12 +19,11 @@ Below is a sample of the training data:
 | 6 | Ce phénomène, c'est l'apparition d'une génération inédite. | B2 |
 
 
-We applied sentence vectorization techniques such as TFIDF to train basic multiclass classification models, such as :
-* logistic regression 
-* KNN & hyperparameter optimisation 
-* Decision Tree classifier & hyperparameter optimisation 
-* Random Forests classifier 
-
+To classify texts difficulty in the project, we applied sentence vectorization techniques such as TFIDF to train basic multiclass classification models, such as :
+* Logistic Regression 
+* KNN & Hyperparameter Optimisation 
+* Decision Tree Classifier & Hyperparameter Optimisation 
+* Random Forests Classifier 
 
  
 
