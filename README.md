@@ -9,12 +9,14 @@ The model will be trained on a dataset of French texts with their corresponding 
 
 [MONTRER TEXT ENTRAINEMENT A DISPOSITION + 1 PHRASE DE BLABLA]
 
-|| Logistic Regression | Knn | Decision Tree | Random Forests | Any Other Techniques |
-| --- | --- | --- | --- | --- | --- |
-| Precision | 0.4645 | 0.4154 | 0.3267 | 0.4645 | 0.4334 |
-| Recall | 0.4677 | 0.3600 | 0.3244 | 0.4645 | 0.4212 |
-| F1-Score | 0.4640 | 0.3489 | 0.3085 | 0.4645 | 0.4092 |
-| Accuracy | 0.4667| 0.3594 | 0.3208 | 0.4645 | 0.4188 |
+
+|| Logistic Regression |
+| --- | --- |
+| Precision | 0.4645 |
+| Recall | 0.4677 |
+| F1-Score | 0.4640 |
+| Accuracy | 0.4667|
+
 
 [AJOUT PHRASE POUR FAIRE LE POND ENTRE LES DONNEES ET LES MODELES EN DESSOUS]
 
@@ -28,12 +30,13 @@ The model will be trained on a dataset of French texts with their corresponding 
 - another technique or combination of techniques of your choice
 
 ## Summary of results table
-|| Logistic Regression |
-| --- | --- |
-| Precision | 0.4645 |
-| Recall | 0.4677 |
-| F1-Score | 0.4640 |
-| Accuracy | 0.4667|
+
+|| Logistic Regression | Knn | Decision Tree | Random Forests | Any Other Techniques |
+| --- | --- | --- | --- | --- | --- |
+| Precision | 0.4645 | 0.4154 | 0.3267 | 0.4645 | 0.4334 |
+| Recall | 0.4677 | 0.3600 | 0.3244 | 0.4645 | 0.4212 |
+| F1-Score | 0.4640 | 0.3489 | 0.3085 | 0.4645 | 0.4092 |
+| Accuracy | 0.4667| 0.3594 | 0.3208 | 0.4645 | 0.4188 |
 
 
 
