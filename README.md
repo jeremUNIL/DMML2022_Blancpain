@@ -7,7 +7,7 @@ The aim of this classifier can be to enable a recommendation system to choose se
 ## Getting Started
 
 ## Approach
-The model will be trained on a [dataset](https://github.com/jeremUNIL/DMML2022_Blancpain/blob/main/data/training_data.csv) of French texts with their corresponding difficulty levels, and it will use this data to predict the difficulty level of new texts. By accurately forecasting the difficulty level of French texts, the recommendation system can aid non-native French speakers in enhancing their skills by supplying texts that are suitable for their current language proficiency.
+The model will be trained on a [dataset](https://github.com/jeremUNIL/DMML2022_Blancpain/blob/main/data/training_data.csv) of French texts with their corresponding difficulty levels, and it will use this data to predict the difficulty level of new texts. 
 
 
 Below is a sample of the training data: 
