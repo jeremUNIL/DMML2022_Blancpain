@@ -5,7 +5,8 @@ This project aims to build a model that can predict the difficulty level of a Fr
 The aim of this classifier can be to enable a recommendation system to choose sentences suitable for a user's language proficiency or to enable a language assessment tool. It may also be utilized to generate databases of sentences of varying difficulty levels for language learning or for creating language exams.
 
 ## Approach
-The model will be trained on a [dataset](https://github.com/jeremUNIL/DMML2022_Blancpain/blob/main/data/training_data.csv) of French texts with their corresponding difficulty levels, and it will use this data to predict the difficulty level of new texts. Below is a sample of the training data: 
+The model will be trained on a [dataset](https://github.com/jeremUNIL/DMML2022_Blancpain/blob/main/data/training_data.csv) of French texts with their corresponding difficulty levels, and it will use this data to predict the difficulty level of [new texts](https://github.com/jeremUNIL/DMML2022_Blancpain/blob/main/data/unlabelled_test_data.csv). Below is a sample of the training data: 
+
 
 | ID | sentence | difficulty |
 | --- | --- | --- |
