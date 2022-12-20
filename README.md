@@ -28,12 +28,12 @@ The model will be trained on a dataset of French texts with their corresponding 
 
 
 ## Authors
-* [Jérémy Jungo]
-Bsc in Industrial Engineering and Management, Major in Supply Chain Management
-Bsc in Industrial Engineering and Management, Major in Supply Chain Management
-* [Vincent Nieto](https://www.linkedin.com/in/vincent-nieto-4bb207214/)
-Bsc in Industrial Engineering and Management, Major in Supply Chain Management
-MSc in Information Systems and Digital Innovation at HEC Lausanne
+Jérémy Jungo  
+*Bsc in Industrial Engineering and Management, Major in Supply Chain Management  
+*MSc in Information Systems and Digital Innovation at HEC Lausanne
+[Vincent Nieto](https://www.linkedin.com/in/vincent-nieto-4bb207214/)  
+*Bsc in Industrial Engineering and Management, Major in Supply Chain Management
+*MSc in Information Systems and Digital Innovation at HEC Lausanne
 
 
 
@@ -45,5 +45,3 @@ MSc in Information Systems and Digital Innovation at HEC Lausanne
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [Models - Hugging Face](https://github.com/matiassingers/awesome-readme](https://huggingface.co/models?sort=downloads&search=flaubert)
-
