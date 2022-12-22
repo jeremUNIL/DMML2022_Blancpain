@@ -57,7 +57,8 @@ It is therefore important to find a good balance between batch size and maximum 
 
 
 
-[![OpenAI Logo](https://www.youtube.com/watch?v=PTvTLvkiAbI&t=131s)]
+[![OpenAI Logo](https://user-images.githubusercontent.com/114933881/209156711-c404a5db-372a-4442-ad7d-e04439c688af.png)](https://www.youtube.com/watch?v=PTvTLvkiAbI&t=131s)
+
 
 
 
