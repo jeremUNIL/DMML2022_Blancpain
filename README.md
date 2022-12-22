@@ -36,7 +36,6 @@ Once the previous models have been trained, we will try to increase the predicti
 | Recall | 0.4677 | 0.3600 | 0.3198 | 0.4059 | 0.4839 | 0.4273 |
 | F1-Score | 0.4640 | 0.3488 | 0.3011 | 0.3884 | 0.4795 | 0.4317 |
 
-*BLABLA
 
 
 
