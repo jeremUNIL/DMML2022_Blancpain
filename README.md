@@ -27,7 +27,7 @@ In order to categorize the difficulty of texts within the project, we utilized s
 Once the previous models have been trained, we will try to increase the prediction accuracy by using other techniques. The results obtained are summarised in the table below. A video presenting all the solutions is also available under the "Video link" section.
  
  The additional models used are as follows: 
- * The [Multinomial Naive Bayes model](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html)is a binary classification model commonly used in classification tasks. It uses a "naive" approach by assuming that all  independent variables are independent of each other, which can simplify the modelling process. However, this assumption may not always be true in reality, which may result in a lower performance of this model compared to other classification models.
+ * The [Multinomial Naive Bayes model](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html) is a binary classification model commonly used in classification tasks. It uses a "naive" approach by assuming that all  independent variables are independent of each other, which can simplify the modelling process. However, this assumption may not always be true in reality, which may result in a lower performance of this model compared to other classification models.
  * Using the [FlauBERT model](https://github.com/getalp/Flaubert) as a pre-processing of the data before using it in a logistic regression model.  The logistic regression model is sensitive to the quality of the input data, and by using appropriately pre-processed data, one can expect to obtain better classification performance.
 
 
