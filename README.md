@@ -48,9 +48,6 @@ Batch size and maximum sequence length (max_seq_length) can impact on model perf
 It is therefore important to find a good balance between batch size and maximum sequence length to achieve optimal model performance. This may require manual adjustment of hyperparameters and trial and error to find the values that best suit the data and the model used
 
 
-Translated with www.DeepL.com/Translator (free version)
-
-
 ## Video link
 
 
