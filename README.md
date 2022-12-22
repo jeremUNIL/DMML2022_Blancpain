@@ -45,6 +45,7 @@ Indeed, the choice and optimisation of hyperparameters can have a significant im
 Batch size and maximum sequence length (max_seq_length) can impact on model performance in several ways:
 1.	Batch size can influence the learning speed of the model and the quality of its predictions. In general, a larger batch size can speed up the learning of the model, but can also lead to overlearning if it is too large. On the other hand, a smaller batch size may result in slower learning but can help prevent overfitting.
 2.	The maximum sequence length can affect the amount of context the model can take into account when making predictions. If the maximum sequence length is too small, the model may not have enough context to make accurate predictions and may therefore perform worse. On the other hand, if the maximum sequence length is too large, the model may have difficulty processing the sequences and extracting relevant features, which may also negatively affect its performance.
+
 It is therefore important to find a good balance between batch size and maximum sequence length to achieve optimal model performance. This may require manual adjustment of hyperparameters and trial and error to find the values that best suit the data and the model used
 
 
