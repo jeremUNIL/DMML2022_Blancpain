@@ -36,7 +36,19 @@ Once the previous models have been trained, we will try to increase the predicti
 | Recall | 0.4677 | 0.3600 | 0.3198 | 0.4059 | 0.4839 | 0.4273 |
 | F1-Score | 0.4640 | 0.3488 | 0.3011 | 0.3884 | 0.4795 | 0.4317 |
 
+The best performing model was the multinomial model, followed closely by the logistic regression model. These models were found to be the best performing models for this type of work.
 
+The use of the pre-treatment model with logistic regression did not achieve the desired results. As mentioned in the video, some parameters had to be minimised to avoid RAM problems during the execution of the code.
+
+Indeed, the choice and optimisation of hyperparameters can have a significant impact on the performance of machine learning models, as can the quality and quantity of the data used for training.
+
+Batch size and maximum sequence length (max_seq_length) can impact on model performance in several ways:
+1.	Batch size can influence the learning speed of the model and the quality of its predictions. In general, a larger batch size can speed up the learning of the model, but can also lead to overlearning if it is too large. On the other hand, a smaller batch size may result in slower learning but can help prevent overfitting.
+2.	The maximum sequence length can affect the amount of context the model can take into account when making predictions. If the maximum sequence length is too small, the model may not have enough context to make accurate predictions and may therefore perform worse. On the other hand, if the maximum sequence length is too large, the model may have difficulty processing the sequences and extracting relevant features, which may also negatively affect its performance.
+It is therefore important to find a good balance between batch size and maximum sequence length to achieve optimal model performance. This may require manual adjustment of hyperparameters and trial and error to find the values that best suit the data and the model used
+
+
+Translated with www.DeepL.com/Translator (free version)
 
 
 ## Video link
