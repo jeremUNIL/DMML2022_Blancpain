@@ -26,6 +26,10 @@ In order to categorize the difficulty of texts within the project, we utilized s
 
 Once the previous models have been trained, we will try to increase the prediction accuracy by using other techniques. The results obtained are summarised in the table below. A video presenting all the solutions is also available under the "Video link" section.
  
+ The additional models used are as follows: 
+ The Multinomial Naive Bayes model is a binary classification model commonly used in classification tasks. It uses a "naive" approach by assuming that all independent variables are independent of each other, which can simplify the modelling process. However, this assumption may not always be true in reality, which may result in a lower performance of this model compared to other classification models.
+
+Translated with www.DeepL.com/Translator (free version)
 
 ## Summary of results table
 
