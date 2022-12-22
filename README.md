@@ -31,10 +31,10 @@ Once the previous models have been trained, we will try to increase the predicti
 
 || Logistic Regression | Knn | Decision Tree | Random Forests | Multinomial | FlauBERT & Log. reg. |
 | --- | --- | --- | --- | --- | --- | --- |
-| Accuracy | 0.4667| 0.3594 | 0.3156 | 0.4031 | 0.4823 | 0.1677 |
-| Precision | 0.4645 | 0.4163 | 0.3194 | 0.4048 | 0.5014 | 0.1672 |
-| Recall | 0.4677 | 0.3600 | 0.3198 | 0.4059 | 0.4839 | 0.1673 |
-| F1-Score | 0.4640 | 0.3488 | 0.3011 | 0.3884 | 0.4795 | 0.1670 |
+| Accuracy | 0.4667| 0.3594 | 0.3156 | 0.4031 | 0.4823 | 0.4292 |
+| Precision | 0.4645 | 0.4163 | 0.3194 | 0.4048 | 0.5014 | 0.4338 |
+| Recall | 0.4677 | 0.3600 | 0.3198 | 0.4059 | 0.4839 | 0.4273 |
+| F1-Score | 0.4640 | 0.3488 | 0.3011 | 0.3884 | 0.4795 | 0.4317 |
 
 *BLABLA
 
