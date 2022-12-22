@@ -66,4 +66,5 @@ Jérémy Jungo
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Hugging Face](https://huggingface.co/models?sort=downloads&search=flaubert)
+* [Hugging Face doc](https://huggingface.co/models?sort=downloads&search=flaubert)
+* [Multinomial NB doc](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html)
